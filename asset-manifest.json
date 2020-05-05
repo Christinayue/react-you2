@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-you2/static/css/main.ccc44daf.chunk.css",
+    "main.css": "/react-you2/static/css/main.7336d143.chunk.css",
     "main.js": "/react-you2/static/js/main.80583e2d.chunk.js",
     "main.js.map": "/react-you2/static/js/main.80583e2d.chunk.js.map",
     "runtime-main.js": "/react-you2/static/js/runtime-main.6fe61dde.js",
@@ -8,9 +8,9 @@
     "static/js/2.1fc37ed2.chunk.js": "/react-you2/static/js/2.1fc37ed2.chunk.js",
     "static/js/2.1fc37ed2.chunk.js.map": "/react-you2/static/js/2.1fc37ed2.chunk.js.map",
     "index.html": "/react-you2/index.html",
-    "precache-manifest.05102f677d85261e6a731a1650681c7b.js": "/react-you2/precache-manifest.05102f677d85261e6a731a1650681c7b.js",
+    "precache-manifest.76b2767a77e78db350438f59e30216fb.js": "/react-you2/precache-manifest.76b2767a77e78db350438f59e30216fb.js",
     "service-worker.js": "/react-you2/service-worker.js",
-    "static/css/main.ccc44daf.chunk.css.map": "/react-you2/static/css/main.ccc44daf.chunk.css.map",
+    "static/css/main.7336d143.chunk.css.map": "/react-you2/static/css/main.7336d143.chunk.css.map",
     "static/js/2.1fc37ed2.chunk.js.LICENSE.txt": "/react-you2/static/js/2.1fc37ed2.chunk.js.LICENSE.txt",
     "static/media/Nexpay.png": "/react-you2/static/media/Nexpay.b8c214d0.png",
     "static/media/github.svg": "/react-you2/static/media/github.b16e8332.svg",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.6fe61dde.js",
     "static/js/2.1fc37ed2.chunk.js",
-    "static/css/main.ccc44daf.chunk.css",
+    "static/css/main.7336d143.chunk.css",
     "static/js/main.80583e2d.chunk.js"
   ]
 }

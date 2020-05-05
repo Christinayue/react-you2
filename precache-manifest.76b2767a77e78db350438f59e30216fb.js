@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f156a71939db4b4522bf5b413e4ac67b",
+    "revision": "a323fe5c0170a77121c68b6670af2992",
     "url": "/react-you2/index.html"
   },
   {
-    "revision": "16ed8727f76a9b070f52",
-    "url": "/react-you2/static/css/main.ccc44daf.chunk.css"
+    "revision": "11a507e3df4bf3cd66c3",
+    "url": "/react-you2/static/css/main.7336d143.chunk.css"
   },
   {
     "revision": "cab9b4ef98a83291f4a1",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-you2/static/js/2.1fc37ed2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "16ed8727f76a9b070f52",
+    "revision": "11a507e3df4bf3cd66c3",
     "url": "/react-you2/static/js/main.80583e2d.chunk.js"
   },
   {
@@ -64,8 +64,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-you2/static/media/linkedin.f84cc1f9.svg"
   },
   {
-    "revision": "5949254a3ff918546f3bf8a1d1b439a9",
-    "url": "/react-you2/static/media/photo.5949254a.jpeg"
+    "revision": "ab8d508d959138f40e5b983e20543692",
+    "url": "/react-you2/static/media/photo1.ab8d508d.jpg"
   },
   {
     "revision": "6fb7763404fc7fa02b6396281d67dddf",
